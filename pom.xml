@@ -225,7 +225,7 @@
 			
 				<groupId>net.wouterdanes.docker</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
-				<version>3.0.1-SNAPSHOT</version>
+				<version>4.0.0-SNAPSHOT</version>
 				<executions>
 					<execution>
 						<id>build</id>
@@ -307,5 +307,5 @@
 		</plugins>
 		<finalName>${project.artifactId}</finalName>
 	</build>
-	<version>3.6.3</version>
+	<version>3.6.4</version>
 </project>
