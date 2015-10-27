@@ -15,9 +15,9 @@
 		<h1 style="color: #C71585">Welcome to Demo : Vehicle Rental
 			Application.</h1>
 
-		<br /> <br /> <a href="index.jsp"><h3>Continue to mindtree.......................</h3></a> <br />
+		<br /> <br /> <a href="index.jsp"><h3>Continue to mindtree     .......................</h3></a> <br />
 			<h1>Welcome to Possible</h1>	
-		<h1>Version 5.0.8</h1>
+		<h1>Version 5.0.9</h1>
 	</center>
 </body>
 </html>
