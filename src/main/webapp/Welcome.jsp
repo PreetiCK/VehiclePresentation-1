@@ -12,12 +12,12 @@
 	<center>
 		<br /> <br /> <img alt="" src="img/logo2.jpg"> <br /> <br />
 		<br />
-		<h1 style="color: #C71585">Welcome Possible : Vehicle Rental
+		<h1 style="color: #C71585">Welcome to Possible : Vehicle Rental
 			Application.</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue to mindtree     .......................</h3></a> <br />
 			<h1>Welcome to Possible !!</h1>	
-		<h1>Version 5.1.13</h1>
+		<h1>Version 5.1.14</h1>
 	</center>
 </body>
 </html>
