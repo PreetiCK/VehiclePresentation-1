@@ -17,8 +17,8 @@
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue .......................</h3></a> <br />
 			<h1>Welcome to Possible !!</h1>	
-			<h1>Hello</h1>
-		<h1>Version 6.0.2</h1>
+			<h1>Hello Mindtree</h1>
+		<h1>Version 6.0.3</h1>
 	</center>
 </body>
 </html>
