@@ -307,5 +307,5 @@
 		</plugins>
 		<finalName>${project.artifactId}</finalName>
 	</build>
-	<version>6.0.3</version>
+	<version>6.0.4</version>
 </project>
