@@ -16,10 +16,10 @@
 			Application.</h1>
 
 		 <a href="index.jsp"><h3>Continue .......................</h3></a> <br />
-			<h1>Welcome to Possible !!</h1>	
+			<h1>Welcome to Possible!!</h1>	
 			
-		<h1>Version 5.0.5</h1>
-		<h1>Welcome to K safari stalll</h1>
+		<h1>Version 5.0.6</h1>
+		<h2> Welcome Demo for 5.0.6 </h2>
 		
 	</center></body>
 </html>
