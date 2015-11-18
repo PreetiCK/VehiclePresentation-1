@@ -12,13 +12,12 @@
 	<center>
 		<br /> <br /> <img alt="" src="img/logo2.jpg"> <br /> <br />
 		<br />
-		<h1 style="color: #C71585">Welcome to Possible : Vehicle Rental
+		<h1 style="color: #C71585">Welcome to Demo : Vehicle Rental
 			Application.</h1>
 
-		 <a href="index.jsp"><h3>Continue .......................</h3></a> <br />
-			
-		<h1> Welcome to Version 5.0.7</h1>
-		 
-		
-	</center></body>
+		<br /> <br /> <a href="index.jsp"><h3>Continue.......................</h3></a> <br />
+<h2>Hello World</h2>
+		<h1>Version 7.0.1</h1>
+	</center>
+</body>
 </html>
