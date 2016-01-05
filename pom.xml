@@ -253,12 +253,12 @@
 							</images>
 						</configuration>
 					</execution>
-					 <execution>
+<!-- 					 <execution>
 						<id>tag</id>
 						<goals>
 							<goal>tag-images</goal>
 						</goals>
-						<!-- <configuration>
+						<configuration>
 							<images>
 								<image>
 									<id>${project.artifactId}</id>
@@ -268,8 +268,8 @@
 									<push>true</push>
 								</image>
 							</images>
-						</configuration> -->
-					</execution> 
+						</configuration>
+					</execution>  -->
 					<execution>
 						<id>push</id>
 						<goals>
