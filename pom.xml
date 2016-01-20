@@ -307,5 +307,5 @@
 		</plugins>
 		<finalName>${project.artifactId}</finalName>
 	</build>
-	<version>9.0.5-SNapsh</version>
+	<version>9.0.6-SNapsh</version>
 </project>

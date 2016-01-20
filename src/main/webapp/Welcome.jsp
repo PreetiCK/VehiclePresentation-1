@@ -16,7 +16,7 @@
 			Application.</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue.......................</h3></a> <br />
-		<h1>Version 9.0.5-SNapshot</h1>
+		<h1>Version 9.0.6-SNapshot</h1>
 	</center>
 </body>
 </html>
