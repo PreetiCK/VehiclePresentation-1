@@ -225,7 +225,7 @@
 			
 				<groupId>net.wouterdanes.docker</groupId>
 				<artifactId>docker-maven-plugin</artifactId>
-				<version>3.0.2-SNAPSHOT</version>
+				<version>3.0.1-SNAPSHOT</version>
 				<executions>
 					<execution>
 						<id>build</id>
@@ -246,7 +246,7 @@
 											<file>${project.basedir}/src/main/docker/start_up.sh</file>
 										</artifact>
 									</artifacts>
-									<nameAndTag>nijisha/pkvapp:2</nameAndTag>
+									<nameAndTag>nijisha/pkvapp:3</nameAndTag>
 									<!-- <registry>registry.hub.docker.com</registry> -->
 									<push>true</push>
 								</image>
