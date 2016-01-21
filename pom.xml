@@ -246,7 +246,7 @@
 											<file>${project.basedir}/src/main/docker/start_up.sh</file>
 										</artifact>
 									</artifacts>
-									<nameAndTag>nijisha/mt-mvn-vr-presentation:${project.version}</nameAndTag>
+									<nameAndTag>nijisha/pkvapp:${project.version}</nameAndTag>
 									<!-- <registry>registry.hub.docker.com</registry> -->
 									<push>true</push>
 								</image>
