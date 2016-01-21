@@ -246,7 +246,7 @@
 											<file>${project.basedir}/src/main/docker/start_up.sh</file>
 										</artifact>
 									</artifacts>
-									<nameAndTag>nijisha/pkvapp:${project.version}</nameAndTag>
+									<nameAndTag>nijisha/pkvapp:2</nameAndTag>
 									<!-- <registry>registry.hub.docker.com</registry> -->
 									<push>true</push>
 								</image>
